@@ -1,0 +1,3 @@
+/Users/danilapadarouski/Desktop/BSU/TA/Binary Heap/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/danilapadarouski/Desktop/BSU/TA/Binary Heap/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/danilapadarouski/Desktop/BSU/TA/Binary Heap/cmake-build-debug/CMakeFiles/Binary_Heap.dir

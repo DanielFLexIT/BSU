@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/danilapadarouski/Desktop/BSU/TA/Palindrome/main.cpp
+fstream
+-
+algorithm
+-
+iostream
+-
+stdio.h
+-
+string.h
+-
+
